@@ -1,0 +1,50 @@
+body,footer,head {
+	background-image: url('fall.jpg'); /*need to change*/
+	font-family: Verdana, sans-serif;
+}
+
+a:link{
+	text-decoration:none;
+	color:#000000;	
+}
+
+.logo {
+	width:100px;
+	height:70px;
+	padding: 0px;
+	border: 0px;
+	border-collapse: collapse;
+	background-color: #63cbfc
+}
+a:hover {
+	color:#0000FF
+}
+#header_table,th {
+	width: 33%;
+	height:10%;
+	margin-left: 10%;
+	background-color:#FFFFFF;
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+#body_table {
+	width: 80%;
+	height:10%;
+	margin-left: 10%;
+	background-color:#FFFFFF;
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+#footer_table {
+	width: 80%;
+	height: 10%;
+	margin-left: 10%;
+	background-color:#FFFFFF;
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+}
