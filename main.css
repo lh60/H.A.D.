@@ -7,6 +7,12 @@ a:link{
 	text-decoration:none;
 	color:#000000;	
 }
+a:visited {
+	color:#000000;
+}
+a:hover {
+	color:#0000FF;
+}
 
 .logo {
 	width:100px;
@@ -15,9 +21,6 @@ a:link{
 	border: 0px;
 	border-collapse: collapse;
 	background-color: #63cbfc
-}
-a:hover {
-	color:#0000FF
 }
 #header_table,th {
 	width: 33%;
